@@ -15,7 +15,7 @@
 .navbar-brand img
 {
     height: 40px;
-    padding-left: 30px;
+    padding-right: 30px;
 
 }
 .navbar-nav li
@@ -24,8 +24,8 @@
 }
 .navbar-nav a
 {
-   float: right;
-   text-align: left;
+   float: left;
+   text-align: center;
 }
 
 #nav-bar ul li a:hover{
