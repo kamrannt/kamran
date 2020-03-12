@@ -1,50 +1,11 @@
-@import url("https //fonts.googleapis.com/css?family=Lato:100");
 
 *{
 	padding: 0;
 	margin: 0;
 	box-sizing: border-box;
 }
-html
-{
-	font-size: 10px;
-	font-family:"Lato",Arial, Helvetica, sans-serif;
-
-}
-
-section{
-width: 100%;
-height: 100vh;
-color: #fff;
-background: linear-gradient(-45deg,#EE7752,#E73C7E,#23A6D5,#23D5AB);
-background-size: 400% 400%;
-position: relative;
-animation: change 10s ease-in-out infinite;
 
 
-}
-
-@keyframes change
-{
-0%{
-	background-position: 0 50%;
-
-}
-50%{
-background-position: 100% 50%;
-
-}
-100%{
-	background-position: 0% 50%;
-}
-
-}
-
-
-body{
-	font-family: 'Roboto', sans-serif;
-	overflow: hidden;
-}
 
 .container{
 	 position: relative;
@@ -80,13 +41,13 @@ body{
 .content h2{
 	color:rebeccapurple;
 	font-family: "Roboto", cursive;
-	font-size: 4.3rem;
+	font-size: 7.3rem;
 	margin-bottom: 0.8rem;
 }
 
 .content p{
 	color: white;
-	font-size: 1.2rem;
+	font-size: 5.2rem;
 	font-weight: 100;
 }
 

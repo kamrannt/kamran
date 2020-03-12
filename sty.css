@@ -18,7 +18,7 @@ section{
 width: 100%;
 height: 100vh;
 color: #fff;
-background: linear-gradient(-45deg,#EE7752,#E73C7E,#23A6D5,#23D5AB);
+background: linear-gradient(-45deg,#EE7752,#E73C7E,#23A6D5,#23D5AB,rgb(235, 10, 96),rgb(231, 131, 170),rgb(6, 214, 241),rgb(177, 60, 231));
 background-size: 400% 400%;
 position: relative;
 animation: change 10s ease-in-out infinite;
@@ -43,15 +43,40 @@ padding: 5rem 10rem;
 @keyframes change
 {
 0%{
-	background-position: 0 50%;
-
+	background-position: 0% 10% ;
 }
-50%{
-background-position: 100% 50%;
+10%{
+	background-position: 5% 10%;
+}
+20%{
+	background-position: 10% 20%;
+}
+30%{
+	background-position: 20% 30%;
+}
+40%{
+	background-position: 30% 40%;
+}
 
+50%{
+background-position: 40% 50%;
+}
+60%{
+	background-position: 50% 60%;
+}
+70%{
+	background-position: 60% 70%;
+}
+80%{
+	background-position:70% 80%;
+}
+90%{
+	background-position: 80% 90%;
 }
 100%{
-	background-position: 0% 50%;
+	background-position: 90% 100%;
 }
+
+
 
 }
