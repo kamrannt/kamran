@@ -4,7 +4,9 @@
 	margin: 0;
 	box-sizing: border-box;
 }
-
+@-ms-viewport{
+  width: device-width;
+}
 .box
 {
 position: absolute;;
