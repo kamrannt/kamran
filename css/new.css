@@ -14,7 +14,7 @@ position: relative;
 top: 50%;
 left: 50%;
 transform: translate(-50%,-50%);
-width: 350px;
+width: 450px;
 padding: 15px;
 box-sizing: border-box;
 border-radius:46px; 
@@ -30,15 +30,18 @@ display:flex;
 
 .box .imgbx
 {
-	width: 100px;
-	flex: 0 0 100px;
+    display: block;
+	width: 100%;
+    /* flex: 0 0 100px; */
+    height: auto;
 	
 }
 
 .box .imgbx img
 {
 max-width: 100%;
-
+display: block;
+height: auto;
 -moz-box-shadow: 10px 10px 10px #ccc; 
 -webkit-box-shadow: 10px 10px 10px #ccc; 
  box-shadow: 10px 10px 10px #ccc; 
@@ -77,10 +80,10 @@ box-shadow: 3px 3px 1px #ccc;
 .box .content p
 {
 margin: 0;
-padding: 10px 0 0;
+padding:1em 0;
 font-family: 'Roboto', sans-serif,monospace;
 text-align: justify;
-font-size: 18px;
+
 
 }
 
