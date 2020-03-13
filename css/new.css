@@ -3,7 +3,10 @@ body
 {
 	padding: 0;
 	margin: 0;
-font-family: sans-serif;
+/* font-family: sans-serif; */
+font: 1em sans-serif;
+line-height: 1.5;
+text-align: center;
 
 }
 
@@ -49,7 +52,7 @@ height: auto;
  -webkit-border-radius:25px; 
  border-radius:25px;  
 padding-right: 0.7px; 
-
+z-index: -1;
 
 /* display: block;
 float: left;
@@ -109,3 +112,10 @@ text-align: justify;
 	font-size: 2rem;
 	font-weight: 100;
 }  */
+@media(min-width:600px){
+.grid{
+    display:grid;
+    grid-template-columns:1fr 1fr 1fr 1fr;
+
+}
+}
