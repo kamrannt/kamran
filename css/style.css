@@ -111,8 +111,8 @@ text-align: justify;
 } */
 
 .content{
-	position: relative;
-    max-width: 480px;
+	position: absolute;
+    max-width: 900px;
     padding: 2rem;
     z-index: 1;
 }
