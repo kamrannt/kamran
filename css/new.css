@@ -14,7 +14,7 @@ position: relative;
 top: 50%;
 left: 50%;
 transform: translate(-50%,-50%);
-width: 450px;
+width: 400px;
 padding: 15px;
 box-sizing: border-box;
 border-radius:46px; 
@@ -80,7 +80,7 @@ margin: 0;
 padding: 10px 0 0;
 font-family: 'Roboto', sans-serif,monospace;
 text-align: justify;
-
+font-size: 18px;
 
 }
 
