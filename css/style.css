@@ -54,7 +54,7 @@ box-shadow: 3px 3px 1px #ccc;
 }
 .box .content
 {
-	padding-left: 20px;
+/* 	padding-left: 20px; */
 	
 
 }
@@ -127,7 +127,7 @@ text-align: justify;
 .content p{
 	color: white;
 	font-size: 2rem;
-	font-weight: 100;
+/* 	font-weight: 100; */
 }
 
 .btn{
