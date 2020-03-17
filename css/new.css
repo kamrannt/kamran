@@ -91,7 +91,7 @@ text-align: justify;
 
 .box:hover
 {
-	box-shadow: 0 30px 50px rgba(0, 0, 0, .5);
+	box-shadow: 0 30px 50px rgba(10, 250, 178, 0.685);
 }
 
 
