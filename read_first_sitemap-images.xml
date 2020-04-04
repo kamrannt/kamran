@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" 
+  xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"> 
+ 
+ 
+ This is what Google requires at its basic level for your image sitemaps to work, so basically the <url>Starts to create a placeholder for all the xml information per your image</url> 
+ like so;
+ <url>
+   <loc>http://example.com/sample.html</loc>
+   <image:image>
+     <image:loc>http://example.com/image.jpg</image:loc>
+   </image:image>
+ </url> 
+ 
+
+
+ Therefore, for each image you want to define within your XML sitemap, simply create new <url>placeholders and fill in the details of your image</url>
+ like so;
+  <url>
+    <loc>What is the Web Page Address (URI) the Image is Located At</loc>
+    <image:image>
+      <image:loc>Required - What is the Web Page Address (Full URI Path) TO THE Image Itself</image:loc>
+      <image:title>OPTIONAL - The Title of the Image: Whatever is within title="webmasters are learning about web standards" attribute of the image you are describing</image:title>
+      <image:caption>OPTIONAL - The Caption is whatever you placed within alt="SEO made easy for Webmasters" attribute of the image you are describing</image:caption>
+      <image:geo_location>OPTIONAL - City, Country where the image was taken</image:geo_location>
+      <image:license>OPTIONAL - What is the Web Page Address (URI) of the copyright details of the image</image:license>
+    </image:image>
+  </url>
+
+
+ Here's a sample one I created for you to take a look at
+   <url>
+    <loc>http://www.rankya.com</loc>
+    <image:image>
+      <image:loc>http://www.rankya.com/images/home-page/rank-first-on-google.jpg</image:loc>
+      <image:title>Learn About SEO to Increase Website Traffic</image:title>
+      <image:caption>SEO for Google rankings</image:caption>
+      <image:license>http://wiki.creativecommons.org/4.0</image:license>
+    </image:image>
+  </url>
+
+
+So you would simply fill your own details per your images
+  <url>
+    <loc>http://www.ReplaceWithYourOwnURL.com</loc>
+    <image:image>
+      <image:loc>http://www.ReplaceWithYourOwnURL.com/YourImageFilePathGoesHereName.jpg</image:loc>
+      <image:title>The title Attribute of THE IMAGE Goes Here</image:title>
+      <image:caption>The alt Attribute of THE IMAGE Goes Here</image:caption>
+      <image:geo_location>City, Country</image:geo_location>
+      <image:license>http://www.ReplaceWithYourOwnURL.com/YourCopyrightDeclarationURL.html</image:license>
+    </image:image>
+  </url>
+
+So for all the images you want to define within your image-sitemaps.xml files, simply copy and paste new URL sets and fill in the image details as shown above
+
+
+And this tag below will then define the END of all URL SETs
+So now, you not only know how to create xml image sitemaps for Google, but you actually know why you do what you do and how it works. Simply locate the file sitemap.images.xml and create and upload the file in to the root folder public_html of your web hosting account
+</urlset> 
