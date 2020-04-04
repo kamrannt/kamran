@@ -2,18 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" 
   xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"> 
  
- 
- This is what Google requires at its basic level for your image sitemaps to work, so basically the <url>Starts to create a placeholder for all the xml information per your image</url> 
- like so;
- <url>
+<url>
    <loc>https://kamranalam.com.np/</loc>
    <image:image>
      <image:loc>https://kamranalam.com.np/images/auth.jpg</image:loc>
    </image:image>
  </url> 
- 
-
-
 
   <url>
     <loc>https://kamranalam.com.np/</loc>
