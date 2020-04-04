@@ -14,8 +14,7 @@
  
 
 
- Therefore, for each image you want to define within your XML sitemap, simply create new <url>placeholders and fill in the details of your image</url>
- like so;
+
   <url>
     <loc>https://kamranalam.com.np/</loc>
     <image:image>
