@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--Created using XmlSitemapGenerator.org - Free HTML, RSS and XML sitemap generator-->
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+        xmlns="https://www.google.com/schemas/sitemap-image/1.1"
+        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
   <url>
     <loc>https://kamranalam.com.np/</loc>
     <changefreq>always</changefreq>
@@ -11,7 +13,7 @@
   </url>
 <url>
     <loc>https://kamranalam.com/index.html</loc>
-       <image:image>
+      <image:image>
      <image:loc>https://kamranalam.com.np/images/auth.jpg</image:loc>
       <image:title>Researcher Reverse engineering,Creater and Developer</image:title>
       <image:caption>Engineer Kamran Alam</image:caption>
