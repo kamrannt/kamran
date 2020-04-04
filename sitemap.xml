@@ -1,52 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" 
-    xmlns="https://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd"
-
-xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!--
- created with Free Online Sitemap Generator www.xml-sitemaps.com 
--->
+xmlns="https://www.google.com/schemas/sitemap-image/1.1">
 <url>
 <loc>https://kamranalam.com.np/</loc>
  <image:image>
       <image:loc>https://kamranalam.com.np/images/auth.jpg</image:loc>
+	  <image:title>Er Kamran alam</image:title>
+	  <image:caption>Engineer kamran alam researcher</image:caption>
     </image:image>
 	
     <image:image>
       <image:loc>https://kamranalam.com.np/images/IMG-20191024-WA0012.jpg</image:loc>
+	  <image:title>Er Kamranalam</image:title>
+	  <image:caption>Engineer kamran alam researcher</image:caption>
     </image:image>
 	
 	    <image:image>
       <image:loc>https://kamranalam.com.np/images/IMG-20191024-WA0014.jpg</image:loc>
+	  <image:title>Er Kamran alam</image:title>
+	  <image:caption>Engineer kamran alam researcher</image:caption>
     </image:image>
 	
 	
 	  <image:image>
       <image:loc>https://kamranalam.com.np/images/2.jpg</image:loc>
+	  <image:title>Er Kamran alam</image:title>
+	  <image:caption>Engineer kamran alam researcher</image:caption>
     </image:image>
 	
 	
 	
 	  <image:image>
       <image:loc>https://kamranalam.com.np/images/rsz_img-20181208-wa0003.jpg</image:loc>
+	  <image:title>Er Kamran alam</image:title>
+	  <image:caption>Engineer kamran alam researcher</image:caption>
     </image:image>
 	
 	
 	  <image:image>
       <image:loc>https://kamranalam.com.np/images/ach/1 (4).jpg</image:loc>
+	  <image:title>Er Kamran alam</image:title>
+	  <image:caption>Engineer kamran alam researcher</image:caption>
     </image:image>
 	
 	  <image:image>
       <image:loc>https://kamranalam.com.np/images/ach/1 (3).jpeg</image:loc>
-    </image:image>
+    <image:title>Er Kamran alam</image:title>
+	  <image:caption>Engineer kamran alam Achievements</image:caption>
+	
+	</image:image>
 	
 	  <image:image>
       <image:loc>https://kamranalam.com.np/images/ach/1 (39).jpg</image:loc>
+    <image:title>Er Kamran alam</image:title>
+	  <image:caption>Engineer kamran alam Achievements</image:caption>
+	
     </image:image>
 	
 	
 	  <image:image>
       <image:loc>https://kamranalam.com.np/images/ach/1 (n).jpg</image:loc>
-    </image:image>
+        <image:title>Er Kamran alam</image:title>
+	  <image:caption>Engineer kamran alam Achievements</image:caption>
+	
+	</image:image>
 	
 	
 	
