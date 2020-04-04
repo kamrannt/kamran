@@ -3,8 +3,10 @@
    xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://kamranalam.com/index.html</loc>
-    <image:image>
-        <image:loc>https://kamranalam.com.np/images/auth.jpg</image:loc>
-    </image:image>
+       <image:image>
+     <image:loc>https://kamranalam.com.np/images/auth.jpg</image:loc>
+      <image:title>Researcher Reverse engineering,Creater and Developer</image:title>
+      <image:caption>Engineer Kamran Alam</image:caption>
+   </image:image>
   </url>
 </urlset>
