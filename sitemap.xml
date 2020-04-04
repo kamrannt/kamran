@@ -7,16 +7,4 @@
    <image:image>
      <image:loc>https://kamranalam.com.np/images/auth.jpg</image:loc>
    </image:image>
- </url> 
-
-  <url>
-    <loc>https://kamranalam.com.np/</loc>
-    <image:image>
-      <image:loc>https://kamranalam.com.np/images/IMG-20191024-WA0012.jpg</image:loc>
-      <image:title>Researcher Reverse engineering,Creater and Developer</image:title>
-      <image:caption>Engineer Kamran Alam</image:caption>
-
-       </image:image>
-   
-
-  </url>
+</url>
