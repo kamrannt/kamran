@@ -6,11 +6,13 @@
   <url>
    <loc>https://kamranalam.com.np/index.html</loc>
    
-    
-     <image:image>
-      <image:loc>https://kamranalam.com.np/images/IMG-20191024-WA0012.jpg</image:loc>
-
-       </image:image>
+       
+    <image:image>
+     <image:loc>https://kamranalam.com.np/images/auth.jpg</image:loc>
+      <image:title>Researcher Reverse engineering,Creater and Developer</image:title>
+      <image:caption>Engineer Kamran Alam</image:caption>
+   </image:image>
+   
     
    
    
